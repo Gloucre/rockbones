@@ -1,0 +1,11 @@
+[
+{"slug":"rb-tee","name":"RB Tee","col":"core","price":32,"img":"core-tee","sizes":["S","M","L","XL"],"desc":"Camiseta negra con el logotipo grabado en pecho. Cuerpo pesado, caída recta.","specs":["100% algodón","240 GSM","Fit oversized"]},
+{"slug":"rb-hoodie","name":"RB Hoodie","col":"core","price":68,"img":"core-hoodie","sizes":["S","M","L","XL"],"desc":"Sudadera pesada con el símbolo RB. Hecha para las caídas y las noches largas.","specs":["Heavyweight","Oversized fit","Bolsillo canguro"]},
+{"slug":"rb-pant","name":"RB Pant","col":"core","price":72,"img":"core-pant","sizes":["28","30","32","34"],"desc":"Pantalón cargo holgado en tejido resistente, con bolsillo lateral y símbolo RB.","specs":["Relaxed fit","Tejido durable","Lavado"]},
+{"slug":"rb-cap","name":"RB Cap","col":"core","price":32,"img":"core-cap","sizes":[],"desc":"Gorra de seis paneles en algodón lavado. Símbolo RB frontal.","specs":["6 paneles","Washed cotton","Ajustable"]},
+{"slug":"raw-tee","name":"RAW Tee","col":"raw","price":38,"img":"raw-tee","sizes":["S","M","L","XL"],"desc":"Lettering rasgado en amarillo ácido y fotografía de calle. Serigrafía desgastada.","specs":["240 GSM","100% algodón","Drop 001"]},
+{"slug":"raw-hoodie","name":"RAW Hoodie","col":"raw","price":74,"img":"raw-hoodie","sizes":["S","M","L","XL"],"desc":"La sudadera RAW con estrellas bordadas en la manga. Sin filtros, sin pulir.","specs":["Oversized fit","Heavyweight","Drop 001"]},
+{"slug":"raw-deck","name":"RAW Deck","col":"raw","price":65,"img":"raw-deck","sizes":["7.75","8.25"],"desc":"Tabla de arce con la gráfica RAW serigrafiada a mano. Cada una sale distinta.","specs":["Arce","7.75 o 8.25 pulgadas","Serie RAW"]},
+{"slug":"longboard-skull","name":"Longboard Skull","col":"core","price":129,"img":"long-skull","sizes":[],"desc":"Longboard de cruising con calavera y huesos cruzados sobre el grip. Cara B en roble natural.","specs":["Grip negro","Roble natural","Ruedas Rockbones"]},
+{"slug":"raw-stickers","name":"Pack Stickers RAW","col":"raw","price":6,"img":"raw-stickers","sizes":[],"desc":"Pegatinas para tabla, casco o farola. Lo llevas dentro, pégalo fuera.","specs":["Vinilo","Pack de 6"]}
+]
